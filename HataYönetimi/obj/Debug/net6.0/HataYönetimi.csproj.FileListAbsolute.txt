@@ -1,0 +1,15 @@
+D:\cs101\HataYönetimi\bin\Debug\net6.0\HataYönetimi.exe
+D:\cs101\HataYönetimi\bin\Debug\net6.0\HataYönetimi.deps.json
+D:\cs101\HataYönetimi\bin\Debug\net6.0\HataYönetimi.runtimeconfig.json
+D:\cs101\HataYönetimi\bin\Debug\net6.0\HataYönetimi.dll
+D:\cs101\HataYönetimi\bin\Debug\net6.0\HataYönetimi.pdb
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.csproj.AssemblyReference.cache
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.AssemblyInfoInputs.cache
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.AssemblyInfo.cs
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.csproj.CoreCompileInputs.cache
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.dll
+D:\cs101\HataYönetimi\obj\Debug\net6.0\refint\HataYönetimi.dll
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.pdb
+D:\cs101\HataYönetimi\obj\Debug\net6.0\HataYönetimi.genruntimeconfig.cache
+D:\cs101\HataYönetimi\obj\Debug\net6.0\ref\HataYönetimi.dll
