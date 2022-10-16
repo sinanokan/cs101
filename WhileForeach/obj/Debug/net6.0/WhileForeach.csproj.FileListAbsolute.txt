@@ -1,0 +1,15 @@
+D:\cs101\WhileForeach\bin\Debug\net6.0\WhileForeach.exe
+D:\cs101\WhileForeach\bin\Debug\net6.0\WhileForeach.deps.json
+D:\cs101\WhileForeach\bin\Debug\net6.0\WhileForeach.runtimeconfig.json
+D:\cs101\WhileForeach\bin\Debug\net6.0\WhileForeach.dll
+D:\cs101\WhileForeach\bin\Debug\net6.0\WhileForeach.pdb
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.csproj.AssemblyReference.cache
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.AssemblyInfoInputs.cache
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.AssemblyInfo.cs
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.csproj.CoreCompileInputs.cache
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.dll
+D:\cs101\WhileForeach\obj\Debug\net6.0\refint\WhileForeach.dll
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.pdb
+D:\cs101\WhileForeach\obj\Debug\net6.0\WhileForeach.genruntimeconfig.cache
+D:\cs101\WhileForeach\obj\Debug\net6.0\ref\WhileForeach.dll
