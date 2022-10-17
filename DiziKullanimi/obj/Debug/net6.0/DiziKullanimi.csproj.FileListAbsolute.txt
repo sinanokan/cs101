@@ -1,0 +1,15 @@
+D:\cs101\DiziKullanimi\bin\Debug\net6.0\DiziKullanimi.exe
+D:\cs101\DiziKullanimi\bin\Debug\net6.0\DiziKullanimi.deps.json
+D:\cs101\DiziKullanimi\bin\Debug\net6.0\DiziKullanimi.runtimeconfig.json
+D:\cs101\DiziKullanimi\bin\Debug\net6.0\DiziKullanimi.dll
+D:\cs101\DiziKullanimi\bin\Debug\net6.0\DiziKullanimi.pdb
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.csproj.AssemblyReference.cache
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.AssemblyInfoInputs.cache
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.AssemblyInfo.cs
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.csproj.CoreCompileInputs.cache
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.dll
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\refint\DiziKullanimi.dll
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.pdb
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\DiziKullanimi.genruntimeconfig.cache
+D:\cs101\DiziKullanimi\obj\Debug\net6.0\ref\DiziKullanimi.dll
