@@ -1,0 +1,15 @@
+D:\cs101\RekürsifVeExtension\bin\Debug\net6.0\RekürsifVeExtension.exe
+D:\cs101\RekürsifVeExtension\bin\Debug\net6.0\RekürsifVeExtension.deps.json
+D:\cs101\RekürsifVeExtension\bin\Debug\net6.0\RekürsifVeExtension.runtimeconfig.json
+D:\cs101\RekürsifVeExtension\bin\Debug\net6.0\RekürsifVeExtension.dll
+D:\cs101\RekürsifVeExtension\bin\Debug\net6.0\RekürsifVeExtension.pdb
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.csproj.AssemblyReference.cache
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.AssemblyInfoInputs.cache
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.AssemblyInfo.cs
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.csproj.CoreCompileInputs.cache
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.dll
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\refint\RekürsifVeExtension.dll
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.pdb
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\RekürsifVeExtension.genruntimeconfig.cache
+D:\cs101\RekürsifVeExtension\obj\Debug\net6.0\ref\RekürsifVeExtension.dll
