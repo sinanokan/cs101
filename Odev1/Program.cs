@@ -99,12 +99,8 @@ namespace Odev1
                 harfSayisi++;
             }
             harfSayisi=harfSayisi-kelimeSayisi+1;
-            Console.WriteLine("Cümledeki kelime sayısı: "+kelimeSayisi);
-            Console.WriteLine("Cümledeki harf sayısı: "+harfSayisi);
-
-            
-
-
+            Console.WriteLine("Cümledeki kelime sayısı: "+ kelimeSayisi);
+            Console.WriteLine("Cümledeki harf sayısı: "+ harfSayisi);
         }
     }
     
