@@ -1,0 +1,15 @@
+D:\cs101\DateTimeVeMath\bin\Debug\net6.0\DateTimeVeMath.exe
+D:\cs101\DateTimeVeMath\bin\Debug\net6.0\DateTimeVeMath.deps.json
+D:\cs101\DateTimeVeMath\bin\Debug\net6.0\DateTimeVeMath.runtimeconfig.json
+D:\cs101\DateTimeVeMath\bin\Debug\net6.0\DateTimeVeMath.dll
+D:\cs101\DateTimeVeMath\bin\Debug\net6.0\DateTimeVeMath.pdb
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.csproj.AssemblyReference.cache
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.AssemblyInfoInputs.cache
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.AssemblyInfo.cs
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.csproj.CoreCompileInputs.cache
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.dll
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\refint\DateTimeVeMath.dll
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.pdb
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\DateTimeVeMath.genruntimeconfig.cache
+D:\cs101\DateTimeVeMath\obj\Debug\net6.0\ref\DateTimeVeMath.dll
