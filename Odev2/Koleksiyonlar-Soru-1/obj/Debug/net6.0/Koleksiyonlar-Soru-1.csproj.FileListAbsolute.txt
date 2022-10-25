@@ -1,0 +1,15 @@
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.exe
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.deps.json
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-1.dll
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+D:\cs101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-1.dll
