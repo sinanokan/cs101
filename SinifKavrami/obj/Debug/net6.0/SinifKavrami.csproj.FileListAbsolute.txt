@@ -1,0 +1,15 @@
+D:\cs101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.exe
+D:\cs101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.deps.json
+D:\cs101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.runtimeconfig.json
+D:\cs101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.dll
+D:\cs101\SinifKavrami\bin\Debug\net6.0\SinifKavrami.pdb
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.csproj.AssemblyReference.cache
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.AssemblyInfoInputs.cache
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.AssemblyInfo.cs
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.csproj.CoreCompileInputs.cache
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.dll
+D:\cs101\SinifKavrami\obj\Debug\net6.0\refint\SinifKavrami.dll
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.pdb
+D:\cs101\SinifKavrami\obj\Debug\net6.0\SinifKavrami.genruntimeconfig.cache
+D:\cs101\SinifKavrami\obj\Debug\net6.0\ref\SinifKavrami.dll
